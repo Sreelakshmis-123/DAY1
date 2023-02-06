@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+}
+#first{
+    color:aquamarine;
+}
+#secound{
+    color:blue;
+}
+.box{
+    margin: 100px;
+    padding: 50px;
+    border-style :dashed darkblue;
+}
+
+
+   
