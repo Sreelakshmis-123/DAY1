@@ -1,0 +1,28 @@
+#first
+{
+    margin: 100px;
+    padding:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:rgb(19, 124, 75);
+}
+#ab{
+    color:brown
+}
+
+#third{
+    color: rgb(5, 5, 14);
+    display:flex;
+    justify-content: center;
+    margin:0;
+}
+
+#img{
+    display: flex;
+    justify-content: flex-start;
+    width: 300px;
+    height: 300px;
+    padding: 80;
+}
+
